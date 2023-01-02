@@ -8,8 +8,8 @@ You must use "add", "start", "done" as action. Task also should be a string.
 
 **todo.db** file becomes like:
 
-work hard sleep less : Done
-write a rust project : To Do
+- work hard sleep less : Done
+- write a rust project : To Do
 
 
 
