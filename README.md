@@ -7,6 +7,7 @@ You must use "add", "start", "done" as action. Task also should be a string.
 - to run it like  **cargo run add "write a rust project"**
 
 **todo.db** file becomes like:
+
 work hard sleep less : Done
 write a rust project : To Do
 
